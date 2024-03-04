@@ -2,4 +2,4 @@
 
 A product page for a fictional minimalist bank.
 
-Course project designed by Jonas Schmedtmann.
+View the live website at: https://bankist-cf.netlify.app/.
